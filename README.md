@@ -3,5 +3,16 @@ This is a **bold** sentence
 Below is a list:
 * List 1
 * List 2
-You can even [link to Google!](http://google.com)
+Follow me on [twitter!](https://twitter.com/aigehi)
+
+Here is a table:
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+Here is my photo:
+![My photo](https://ehiaig.github.io/me.jpg)
 
