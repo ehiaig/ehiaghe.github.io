@@ -1,0 +1,252 @@
+table {
+    border-collapse: collapse !important;
+    border:0px;
+    cellpadding:0px;
+    cellspacing:0px;
+    width:100%;
+}
+body {
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    background-color: #f6f6f6 }
+
+/* MOBILE STYLES */
+@media screen and (max-width: 600px) {
+  .img-max {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .max-width {
+    max-width: 100% !important;
+  }
+
+  .mobile-wrapper {
+    width: 85% !important;
+    max-width: 85% !important;
+  }
+
+  .mobile-padding {
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+  }
+}
+
+/* ANDROID CENTER FIX */
+div[style*="margin: 16px 0;"] { margin: 0 !important; }
+
+
+/**
+My styles
+ */
+.body-sec{
+    text-align: center;
+    align-content: center;
+    background-color: #3b4a69;
+    /**background-image: url("bg.jpg"); */
+    background-attachment: fixed;
+    width: auto;
+    height: auto;
+    background-size: cover;
+    padding: 50px 15px;
+}
+.myimg{
+    border-radius: 100%;
+    height: 250px;
+    width: 250px;
+}
+#cont li {
+    display: inline-block;
+    text-align: center;
+}
+#cont2 li {
+    display: inline-block;
+    text-align: center;
+}
+
+#nav{
+	width: 60%;
+	display: inline-block;
+	text-align: match-parent;
+    padding-top: 10px;
+}
+#nav ul{}
+#nav ul li{
+	display: inline-block;
+	height: 45px;
+
+}
+#nav ul li a{
+		padding: 10px;
+        margin: 10px;
+		background: transparent;
+		color: white;
+        text-decoration: none;
+        border-style: solid;
+        border-radius: 5%;
+        border-color: white;
+	}
+	#nav ul li a:hover{
+		color: #ffb424;
+		text-decoration: none;
+
+
+	}
+		#nav ul li a:active{ color: #ff8f00; }
+
+
+#navsocial{
+	width: 60%;
+	display: inline-block;
+	text-align: match-parent;
+}
+#navsocial ul{}
+#navsocial ul li{
+	display: inline-block;
+
+}
+#navsocial ul li a{
+		padding: 10px;
+		background: transparent;
+		color: white;
+        text-decoration: none;
+	}
+
+.section{
+    color: #999999;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+    background-color: white;
+    align-content: center;
+}
+.footer{
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    color: #666666;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    background-color: white;
+}
+
+#cont2{
+    align-content: center;
+    color: #b7bdc9;
+    font-size: 20px;
+    line-height: 28px; margin: 0;
+}
+#cont2 li {
+    display: inline-block;
+    text-align: center;
+
+}
+#content{
+	/**margin: 30px 0; */
+	background: white;
+	padding: 20px;
+	clear: both;
+    float: left;
+    width: 600px;
+}
+#content,
+ul li a{ box-shadow: 0px 1px 1px #999; }
+
+#content2{
+	/**margin: 30px 0; */
+	background: darkblue;
+	padding-left: 20px;
+    float: right;
+    width: 600px;
+}
+#content2,
+ul li a{ box-shadow: 0px 1px 1px #999; }
+
+#cont{
+    align-content: center;
+}
+#cont li {
+    display: inline-block;
+    text-align: center;
+}
+.about-body{
+    padding: 100px 100px;
+    width: 100%;
+    clear: both;
+}
+#one{
+    border-radius: 0 0 3px 3px;
+    padding: 25px;
+    align-content: center;
+    width: 40%;
+    float: left;
+}
+#one h2{
+    font-size: 20px;
+    color: #444444;
+    margin: 0;
+    padding-bottom: 10px;
+}
+#one p{
+    color: #999999;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+#one a{
+    font-size: 16px;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+    color: #ffffff; text-decoration: none;
+    border-radius: 26px;
+    background-color: #75b6c9;
+    padding: 14px 26px;
+    border: 1px solid #75b6c9;
+    display: block;
+}
+
+
+#two{
+    border-radius: 0 0 3px 3px;
+    padding-right: 180px;
+    align-content: center;
+    width: 40%;
+    float: right;
+}
+#two h2{
+    font-size: 20px;
+    color: #444444;
+    margin: 0;
+    padding-bottom: 10px;
+}
+#two p{
+    color: #999999;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+#two a{
+    font-size: 16px;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+    color: #ffffff; text-decoration: none;
+    border-radius: 26px;
+    background-color: #75b6c9;
+    padding: 14px 26px;
+    border: 1px solid #75b6c9;
+    display: block;
+}
+.about-last{
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+    color: #999999;
+    align-content: center;
+    padding: 100px 100px;
+    width: 100%;
+    clear: both;
+}
+.about-last p{
+    font-size: 14px;
+    line-height: 20px;
+}
