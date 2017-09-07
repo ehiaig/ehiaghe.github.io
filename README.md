@@ -3,7 +3,7 @@ This is a **bold** sentence
 Below is a list:
 * List 1
 * List 2
-Follow me on [twitter!](https://twitter.com/aigehi)
+Connect with me on [twitter!](https://twitter.com/aigehi), [facbook!](https://facebook.com/ehiaig)
 
 Here is a table:
 
@@ -15,4 +15,8 @@ Content in the first column | Content in the second column
 
 Here is my photo:
 ![My photo](https://ehiaig.github.io/me.jpg)
+
+Thanks for stopping by :+1:
+I :heart: you
+I'm being generous today, have some before you go :fries::poultry_leg::champagne: :tropical_drink:
 
