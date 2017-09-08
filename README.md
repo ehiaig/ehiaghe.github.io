@@ -3,7 +3,7 @@ This is a **bold** sentence
 Below is a list:
 * List 1
 * List 2
-Connect with me on [twitter!](https://twitter.com/aigehi), [facbook!](https://facebook.com/ehiaig)
+Connect with me on [twitter](https://twitter.com/aigehi), [facbook](https://facebook.com/ehiaig)
 
 Here is a table:
 
